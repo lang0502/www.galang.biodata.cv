@@ -1,1 +1,1 @@
-# www.galang.biodata.cv
+# sks-galang
